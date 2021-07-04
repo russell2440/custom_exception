@@ -1,6 +1,5 @@
 #include <iostream>
 #include <exception>
-
 using namespace std;
 
 class my_exception: public exception{
