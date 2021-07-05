@@ -9,6 +9,7 @@ class my_exception: public exception{
   }
 };
 
+
 class test{
   public:
     void goes_wrong()
